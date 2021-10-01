@@ -5,11 +5,11 @@
 <a href="#"><img title="Lonely-Lion" src="https://img.shields.io/badge/Lonely-Lion-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/Lonely-Lion?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/johnwick070"><img title="Author" src="https://img.shields.io/badge/Author-johnwick070/Lonely-Lion?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumthodi</a> to make it public
+Project created by <a href="https://github.com/johnwick070">johnwick070</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumth
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/Lonely-Lion">
+  <a href="httsp://github.com/johnwick070/Lonely-Lion">
     <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/Lonely-Lion?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/Lonely-Lion/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/Lonely-Lion?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/Lonely-Lion/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/Lonely-Lion?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/Lonely-Lion/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/Lonely-Lion?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/johnwick070/followers"><img title="Followers" src="https://img.shields.io/github/followers/johnwick070?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/johnwick070/Lonely-Lion/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/johnwick070/Lonely-Lion?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/johnwick070/Lonely-Lion/network/members"><img title="Forks" src="https://img.shields.io/github/forks/johnwick070/Lonely-Lion?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/johnwick070/Lonely-Lion/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/johnwick070/Lonely-Lion?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnwick070&repo=PublicBot&theme=nightowl)](https://github.com/johnwick070/PublicBot)
   </div>
     
 ## Setup
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/Lonely-Lion
+$ git clone https://github.com/johnwick070/Lonely-Lion
 $ cd Lonely-Lion
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/Lonely-Lion
+$ git clone https://github.com/johnwick070/Lonely-Lion
 $ cd Lonely-Lion
 $ chmod +x *
 $ npm i
